@@ -24,7 +24,7 @@
 1. **Clone or Download the Repository:**
    - Download the ZIP file from the repository or clone it using:
      ```bash
-     git clone https://github.com/yourusername/focusflow-extension.git
+     git clone https://github.com/Rambo19911/FOCUSFLOW-CHROME-EXTENSION.git
 2. Load the Extension in Chrome:
      Open Google Chrome.
      Go to chrome://extensions/.
